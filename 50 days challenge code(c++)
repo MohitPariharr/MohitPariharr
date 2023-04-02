@@ -1,0 +1,8 @@
+//lets start journey od coding....
+//programming language is incomplete without HELLO WORLD program ,so we make our first program of HELLO WORLD
+#include<iostream>
+using namespace std;
+int main(){
+    cout<<"HELLO WORLD!!";
+    return 0;
+}
