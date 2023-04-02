@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @MohitPariharr
 - 👀 I’m interested in ...bug😬😅
-- 🌱 I’m currently learning ...java
+- 🌱 I’m currently learning ...c++
 - 💞️ I’m looking to collaborate on ...🔒
-- 📫 How to reach me ...🏎️
+- 📫 How to reach me 
 
 <!---
 MohitPariharr/MohitPariharr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
